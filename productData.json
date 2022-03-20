@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "Macbook's horrible M1 chip",
+      "price": 1500.00,
+      "quantity": 1000
+    },
+    {
+      "name": "Older Macbook with Intel",
+      "price": 1200.00,
+      "quantity": 500
+    },    {
+      "name": "Lenova",
+      "price": 500.00,
+      "quantity": 2500
+    }
+  ]
+}
